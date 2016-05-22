@@ -1,2 +1,2 @@
 # SinglePageBlogger
-Single page blogger using angular seed
+Single page blogger using angular-seed
